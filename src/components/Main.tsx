@@ -23,12 +23,12 @@ export const Main = () => {
       </div>
       <div
         className="absolute"
-        style={{ width: "759px", height: "650px", left: "340px", top: "90px" }}
+        style={{ width: "759px", height: "650px", left: "300px", top: "90px" }}
       >
         <img src={chaosgpt} style={{ height: "100%", width: "100%" }}></img>
       </div>
       <div className="absolute" style={{ left: "1030px", top: "230px" }}>
-        <h1 className="text-xl  font-thin">
+        <h1 className="text-xl  font-extralight">
           Effect Conversation <img src={arrow} className="inline ml-2"></img>
         </h1>
         <img src={frame7} className="mt-6"></img>

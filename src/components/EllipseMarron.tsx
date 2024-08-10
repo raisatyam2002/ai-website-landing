@@ -9,7 +9,7 @@ export const EllipseMarron = () => {
         backgroundColor: "#870049",
         borderRadius: "50%",
         position: "absolute",
-        bottom: "-480px",
+        bottom: "-440px",
         opacity: "0.6",
         left: "200px",
         filter: "blur(40px)",
